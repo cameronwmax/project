@@ -1,0 +1,8 @@
+    Plan is to make a frogger esc type of game about a chicken crossing the road.
+-If car hits chicken lose life
+-Set amount of lifes per game
+-Play button
+-Game speed up every level
+-Touch area on other side of road to end level
+-Show amount of lifes
+-Show level
